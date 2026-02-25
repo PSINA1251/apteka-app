@@ -16,7 +16,7 @@
 - База данных: SQL Server
 
 ## Ссылка на макет в Figma
-[Прототип интерфейса]([https://www.figma.com/...тут_ссылка...](https://www.figma.com/design/3dSwt8ef4IhvkeDliiioMn/Untitled?node-id=2-4&m=dev&t=1JUwsSENqyQnHLt4-1))
+[Прототип интерфейса](https://www.figma.com/design/3dSwt8ef4IhvkeDliiioMn/Untitled?node-id=2-4&m=dev&t=1JUwsSENqyQnHLt4-1)
 
 ## Структура репозитория
 - `/docs` — документация (ТЗ, дневники, рейтинг, диаграммы, скриншоты)

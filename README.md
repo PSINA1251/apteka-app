@@ -11,7 +11,7 @@
 3. Оформить заказ
 
 ## Технологии
-- Клиент: Android (Java/Kotlin)
+- Клиент: Android Kotlin
 - Сервер: C# ASP.NET Core
 - База данных: SQL Server
 

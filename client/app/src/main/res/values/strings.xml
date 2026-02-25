@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cart_title">Корзина</string>
+    <string name="order_button">Оформить заказ</string>
+    <string name="medicines_title">Лекарства</string>
+    <string name="order_title">Оформление заказа</string>
+    <string name="hint_fio">ФИО</string>
+    <string name="hint_address">Адрес доставки</string>
+    <string name="hint_phone">Телефон</string>
+    <string name="submit_button">Подтвердить заказ</string>
+    <string name="add_to_cart">В корзину</string>
+</resources>
